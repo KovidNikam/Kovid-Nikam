@@ -4,7 +4,7 @@
 
   This is a personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://kovidnikam.github.io/Kovid-Nikam/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
